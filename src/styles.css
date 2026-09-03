@@ -79,7 +79,7 @@ a {
   left: 50%;
   bottom: max(1rem, env(safe-area-inset-bottom));
   transform: translateX(-50%);
-  display: flex;
+  /* display: flex; */
   align-items: center;
   gap: 0.45rem;
   padding: 0.5rem;
