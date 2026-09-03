@@ -73,6 +73,7 @@ a {
 }
 
 .page-nav {
+  display: none;
   position: fixed;
   z-index: 10;
   left: 50%;
